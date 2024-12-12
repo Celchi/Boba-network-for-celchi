@@ -1,7 +1,3 @@
-Got it! Here’s a cleaner version of the README without any special keys or overly playful elements:
-
-MyContract
-
 This repository demonstrates my Solidity skills with a simple Ethereum-based smart contract. The contract allows users to deposit and withdraw Ether securely, while logging all transactions for transparency.
 
 About the Project
@@ -56,10 +52,3 @@ This project is designed to demonstrate:
 	•	Event-driven programming for better transparency.
 	•	My ability to write clean and well-documented smart contract code.
 
-Contact
-
-For questions or feedback, feel free to reach out:
-	•	GitHub: yourusername
-	•	Email: your-email@example.com
-
-Let me know if you need help with anything else!# Boba-network-for-celchi
