@@ -27,8 +27,8 @@ How to Use
 To try out the project, follow these steps:
 	1.	Clone the repository:
 
-git clone https://github.com/yourusername/your-solidity-project.git  
-cd your-solidity-project  
+git clone 
+ 
 
 
 	2.	Install dependencies:
@@ -51,4 +51,3 @@ This project is designed to demonstrate:
 	•	Safe handling of Ether transactions in Solidity.
 	•	Event-driven programming for better transparency.
 	•	My ability to write clean and well-documented smart contract code.
-
